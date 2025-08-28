@@ -1,4 +1,3 @@
-# 2aa9-
 <h1 align="center">Hi 👋, I'm Khaled AlJAberi</h1>
 <h3 align="center">A passionate frontend developer India</h3>
 
